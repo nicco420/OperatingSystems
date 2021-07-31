@@ -1,6 +1,4 @@
-One operating system function that I find interesting is memory management. Memory management is the process of coordinating and controlling a computer's primary memory.
-In this process, the operating system assigns portions that are called blocks to numerous running programs. This process helps optimize the overall system performance. It also
-manages the memory that resides in things such as hardware, programs, and applications. The memory management functions also keep track of both the allocated and free memory locations.
+One operating system function that I find interesting is memory management. Memory management is the process of coordinating and controlling a computer's primary memory.In this process, the operating system assigns portions that are called blocks to numerous running programs. This process helps optimize the overall system performance. It also manages the memory that resides in things such as hardware, programs, and applications. The memory management functions also keep track of both the allocated and free memory locations.
 
 Another operating system that I find interesting is the network operating system (NOS). The NOS is an operating system that is responsible for managing network resources. In other words, it's an operating system that includes meaningful functions for connecting computers and devices into a local network (LAN). It also manages several inputs simultaneously and provides essential security that is necessary for a multiuser environment. 
 
