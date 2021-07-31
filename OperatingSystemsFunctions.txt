@@ -1,0 +1,3 @@
+One operating system function that I find interesting is memory management. Memory management is the process of coordinating and controlling a computer's primary memory.
+In this process, the operating system assigns portions that are called blocks to numerous running programs. This process helps optimize the overall system performance. It also
+manages the memory that resides in things such as hardware, programs, and applications. The memory management functions also keep track of both the allocated and free memory locations.
